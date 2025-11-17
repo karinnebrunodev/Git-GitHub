@@ -13,8 +13,16 @@ git init
 git config user.name 'nome do usuário'
 git config user.email 'email do usuário'
 ```
+- Comando para cofigurar credenciais de usuários
 
 ### git add
 ```bash
 git add nome_do_arquivo
 ```
+- Comando para adicionar arquivos a área de preparação para commit
+
+### git commit
+```bash
+git commit -m 'mensagem de commit'
+```
+- Comando para adicionar um ponto na linha do tempo
