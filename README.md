@@ -33,3 +33,10 @@ git remote add origin https://github.com/nome-de-usuario/nome-do-repositorio.git
 ```
 - Comando para adicionar a origem remota do repositório
 
+### git push
+```bash
+git push -u origin main nome-da-branch
+```
+- Comando para empurrar alterações locais para o repositório remoto
+
+
