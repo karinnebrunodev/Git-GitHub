@@ -26,3 +26,10 @@ git add nome_do_arquivo
 git commit -m 'mensagem de commit'
 ```
 - Comando para adicionar um ponto na linha do tempo
+
+### git remote
+```bash
+git remote add origin https://github.com/nome-de-usuario/nome-do-repositorio.git
+```
+- Comando para adicionar a origem remota do repositório
+
