@@ -13,3 +13,8 @@ git init
 git config user.name 'nome do usuário'
 git config user.email 'email do usuário'
 ```
+
+### git add
+```bash
+git add nome_do_arquivo
+```
