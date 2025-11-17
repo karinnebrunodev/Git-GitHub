@@ -1,2 +1,9 @@
 # Git e GitHub
-## Aprendendoo
+## Aprendendo comandos Git
+### Comandos básicos
+#### git init
+
+``` bash
+git init
+```
+- Comando para iniciar um repositório Git
