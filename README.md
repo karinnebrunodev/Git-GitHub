@@ -7,3 +7,9 @@
 git init
 ```
 - Comando para iniciar um repositório Git
+
+### git config
+```bash
+git config user.name 'nome do usuário'
+git config user.email 'email do usuário'
+```
